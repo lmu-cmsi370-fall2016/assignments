@@ -11,7 +11,7 @@ If the course texts are available to you, the following readings will shore up t
 
 ## For Submission
 
-Perform a small-scale usability study comparing two systems of similar _utility_ but with differing user interfaces (_usability_). Document your study, its results, and your analysis in a report within this assignment’s repository. Use [Markdown (`.md`) format](https://guides.github.com/features/mastering-markdown/) for the report. [This template](report-template.md) is included in the repository so that you have a starting point for the document.
+Perform a small-scale usability study comparing two systems of similar _utility_ but with differing user interfaces (_usability_). Document your study, its results, and your analysis in a report within this assignment’s repository. Use [Markdown (`.md`) format](https://guides.github.com/features/mastering-markdown/) for the report. A report template is included in the repository so that you have a starting point for the document.
 
 ### Determine Systems and Organize Groups
 We will first organize ourselves into teams of up to five (5) students, then designate a type of system or application with at least two functionally comparable products to each team.
