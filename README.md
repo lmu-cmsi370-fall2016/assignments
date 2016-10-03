@@ -5,8 +5,8 @@ This repository hosts a public copy of the assignment write-ups for this course 
 
 - [Assignment 0906](http://myweb.lmu.edu/dondi/fall2016/cmsi370/cmsi370-fall2016-hw0906.pdf) GitHub and YouTube account setup
 - [Assignment 0930](https://github.com/lmu-cmsi370-fall2016/assignments/blob/master/hands-on-usability-study.md) Hands-on usability study
-- Front-end development
-- User interface component catalog writeup
+- [Assignment 1020](http://myweb.lmu.edu/dondi/fall2016/cmsi370/cmsi370-fall2016-hw1020.pdf) User interface component catalog writeup
+- [Assignment 1027](https://github.com/lmu-cmsi370-fall2016/assignments/blob/master/web-front-end.md) Web front-end development
 - Direct manipulation proof-of-concept
 - Dream design vision document
 - Reusable user interface component and behaviors
