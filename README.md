@@ -8,5 +8,5 @@ This repository hosts a public copy of the assignment write-ups for this course 
 - [Assignment 1020](http://myweb.lmu.edu/dondi/fall2016/cmsi370/cmsi370-fall2016-hw1020.pdf) User interface component catalog writeup
 - [Assignment 1027](https://github.com/lmu-cmsi370-fall2016/assignments/blob/master/web-front-end.md) Web front-end development
 - [Assignment 1122](https://github.com/lmu-cmsi370-fall2016/assignments/blob/master/direct-manipulation.md) Direct manipulation proof-of-concept
-- **Assignment 1201** Dream design vision document
-- **Assignment 1216** Reusable user interface component and behaviors
+- [Assignment 1201](https://github.com/lmu-cmsi370-fall2016/assignments/blob/master/dream-design.md) Dream design vision document
+- [Assignment 1216](https://github.com/lmu-cmsi370-fall2016/assignments/blob/master/reusable-component.md) Reusable user interface component and behaviors
