@@ -21,12 +21,13 @@ The point here is to see how low-level event handling (e.g., mouse/keyboard/touc
 
 If you have a widget idea that is not in this list, check with me to see if it will work.
 
-You may use jQuery but Bootstrap use must be limited to _CSS only_—no Bootstrap JavaScript components allowed, whether in code or triggered by `data` attributes. To be more precise, aside from jQuery, _all other external JavaScript_ must be cleared by me first.
+You may use jQuery but Bootstrap use must be limited to _CSS only_—no Bootstrap JavaScript components allowed, whether in code or triggered by `data` attributes. To be more precise, aside from jQuery, _all other external JavaScript_ must be cleared by me first. The supplied repository includes three examples of reusable components _in general_, but only the swivel control fulfills the direct-manipulation, no-Bootstrap-JavaScript specifications of this assignment.
 
 ### How to Turn it In
 Commit your code in two places. Within _this_ repository, provide:
 
 1. The reusable code for the widget (typically CSS and JavaScript)
-1. A standalone demonstration page that shows an instance of your widget in action
+1. The unit test suite for the widget (see the supplied sample code for examples)
+1. A standalone demonstration page that shows an instance of your widget in action (see the supplied demonstration gallery page for examples)
 
 Under the repository for the web front end assignment, commit the reusable code again (simulating the scenario where you might have downloaded someone’s widget code for use with your front end) and integrate your widget into the user interface that you have already built.
